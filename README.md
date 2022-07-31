@@ -1,7 +1,7 @@
 # QRCODE
 C++使用QT生成二维码和扫码二维码
 
-![microfreezer-scheme-4](https://user-images.githubusercontent.com/550020/114547587-48178e80-9c67-11eb-8c41-c2050f63ca33.png)
+![microfreezer-scheme-4](https://github.com/lzglocal/QRCODE/blob/main/EXAMPLE.png?raw=true)
 
 QR Code generator library - C++
 ===============================
